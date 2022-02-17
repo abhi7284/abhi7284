@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek
-- 👀 I’m looking for entry level developer position.
-- 🌱 I’m currently preparing for my Interviews.
+- 👀 Looking for entry level developer position.
+- 🌱 Currently preparing for my Interviews.
 - 
 <!---
 abhi7284/abhi7284 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
